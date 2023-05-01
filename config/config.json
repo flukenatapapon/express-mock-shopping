@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "Inwbane_321",
+    "database": "express_mock_shopping_development",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "sa",
+    "password": "Inwbane_321",
+    "database": "express_mock_shopping_test",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "sa",
+    "password": "Inwbane_321",
+    "database": "express_mock_shopping_production",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}
